@@ -1,0 +1,2 @@
+# Check-file-similarity-using-this-code-
+Hi, Sometimes we have a number of programming files(let’s say 20) in which some lines of codes are common. So we need to check how much percentage of similarity index between different combinations. Today I am going to give you a simple way to check the similarity percentage between python files or any files in general.Always be sure , your files should in a folder and folder should be in correct directory. Just run the above shared code and see the magic you will get csv file containing similarity value between the files.
